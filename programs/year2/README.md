@@ -1,5 +1,6 @@
 #Busy Mail Room
 
+Grab each thing from the INBOX, and drop each one into the OUTBOX.
 
 ###Challenges:
 - Size:  3

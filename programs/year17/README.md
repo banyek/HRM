@@ -7,6 +7,10 @@ Send a 0 to the OUTBOX if they have the same sign. (Both positive or both negati
 Send a 1 to the OUTBOX if their signs are different.
 Repeat until the INBOX is empty.
 
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| - | - | - | - | - | - |
+|  |  |  |  | 0 | 1 |
+
 ###Challenges:
 - Size:  12
 - Speed: 12
