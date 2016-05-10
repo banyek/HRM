@@ -11,4 +11,4 @@ Repeat!
 
 |NAME|SIZE|SPEED|COMMENT|
 | --- | --- | --- | --- |
-|prg1.asm| *9|27|
+|prg1.asm| *9|28|
