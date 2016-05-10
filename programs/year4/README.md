@@ -2,6 +2,10 @@
 
 Grab the first TWO things from the INBOX and drop them into the OUTBOX in the reverse order. Repeat until the INBOX is empty.
 
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| | | |
+
 ###Challenges:
 - Size:  7
 - Speed: 21 
