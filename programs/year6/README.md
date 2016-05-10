@@ -2,6 +2,9 @@
 
 For each two things in the INBOX, add them together, and put the result in the OUTBOX.
 
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| | | |
 
 ###Challenges:
 - Size:  6
