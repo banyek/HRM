@@ -1,4 +1,4 @@
-Busy Mail Room
+`Busy Mail Room
 
 Challenges:
 
@@ -10,4 +10,4 @@ Programs:
   NAME       SIZE     SPEED     COMMENT
   =========================================
   prg1.asm   *3        30       Simple
-  prg2.asm    24			*20       Bad, but quick
+  prg2.asm    24			*20       Bad, but quick`
