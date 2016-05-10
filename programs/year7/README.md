@@ -2,7 +2,9 @@
 
 Send all things that ARE NOT ZERO to the OUTBOX
 
-
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | |  |  |  |  |  |  |
 
 ###Challenges:
 - Size:  4
