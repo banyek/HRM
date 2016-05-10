@@ -1,11 +1,11 @@
 #Busy Mail Room
 
 
-##Challenges:
+###Challenges:
 - Size:  3
 - Speed: 25
 
-Programs:
+###Programs:
 
 |NAME|SIZE|SPEED|COMMENT|
 | --- | --- | --- | --- |
