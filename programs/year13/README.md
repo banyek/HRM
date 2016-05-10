@@ -1,6 +1,6 @@
 # Equalization Room
 
-Get two things from the INBOX. If they are EQUAL, put ONE if them in the OUTBOX. Discard nin-equal pairs. 
+Get two things from the INBOX. If they are EQUAL, put ONE if them in the OUTBOX. Discard non-equal pairs. 
 Repeat!
 
 ###Challenges:
