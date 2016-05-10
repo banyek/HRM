@@ -3,6 +3,10 @@
 The INBOX is filled with zero terminated strings. 
 Add together all the numbers in each string. When you reach the end of a sting (marked be a ZERO), put your sim in the OUTBOX. Reset and repeat for each string.
 
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| | | | | | | | | 0 |
+
 ###Challenges:
 - Size:  10
 - Speed: 72
