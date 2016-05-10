@@ -8,7 +8,7 @@ Send a 1 to the OUTBOX if their signs are different.
 Repeat until the INBOX is empty.
 
 | 0 | 1 | 2 | 3 | 4 | 5 |
-| - | - | - | - | - | - |
+| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | 0 | 1 |
 
 ###Challenges:
